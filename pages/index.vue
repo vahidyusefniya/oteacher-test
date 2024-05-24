@@ -1,0 +1,4 @@
+<template>
+  <StatusCard />
+  <RecentOrders />
+</template>
